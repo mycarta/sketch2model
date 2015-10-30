@@ -7,3 +7,5 @@ The original idea, proposed by [Elwin] (https://github.com/thegallowspole) at th
  
 The implementation of the finished app involves using morphological filtering and other image processing methods to enhance the sketch image and convert it into a model with discrete bodies, then pass it on to Agile's [modelr.io] (https://www.modelr.io/) to create a synthetic.
 
+More details coming soon...
+
